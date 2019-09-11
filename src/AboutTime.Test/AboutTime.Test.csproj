@@ -13,6 +13,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AboutTime.Dummy\AboutTime.Dummy.csproj" />
     <ProjectReference Include="..\AboutTime.Testing\AboutTime.Testing.csproj" />
   </ItemGroup>
 </Project>
